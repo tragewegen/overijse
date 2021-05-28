@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TRAGE WEGEN OVERIJSE",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -60,9 +60,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true,
-    "publishType": "mbrsite",
-    "mbrsite": "mbrsite://%7B%22id%22%3A120246%2C%22domain%22%3A%22rjkdpb0okx.mobirisesite.com%22%7D"
+    "publishChangesOnly": true
   },
   "pages": {
     "page1.html": {
